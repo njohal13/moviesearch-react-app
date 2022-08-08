@@ -1,3 +1,15 @@
+# MovieLand App
+- Created with react
+- Search database of Movies
+- OMDB API
+<img width="1222" alt="moviesearchreact" src="https://user-images.githubusercontent.com/98681977/183319338-12e12c5a-f47d-4b08-afaa-3d9843f54698.png">
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
